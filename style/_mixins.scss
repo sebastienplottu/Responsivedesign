@@ -1,0 +1,7 @@
+@mixin sousbloc {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: $color_footer;
+  flex: 1;
+}
